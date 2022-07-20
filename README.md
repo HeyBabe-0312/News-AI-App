@@ -1,3 +1,5 @@
+# News AI App
+This is a profile website. Include products, technology, self-introduction, achievements. The website can be translated into 3 languages: Vietnamese, English and Japanese
 ## Deploy app here: https://news-ai-demo-app.vercel.app/
 #### Error: I use free for development of News API . So 'Requests from the browser are not allowed on the Developer plan, except from localhost.'. You can talk with AI but news can't use.
 ### Contact me to run this app
