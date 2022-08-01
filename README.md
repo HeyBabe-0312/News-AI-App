@@ -1,6 +1,6 @@
 # News AI App
 News Application using Alan AI. Alan AI is a revolutionary speech recognition software that allows you to add voice capabilities to your applications. It allows you to control absolutely everything in the app using your voice. Another huge benefit is that it's extremely easy to integrate it.
-## Deploy app here: https://news-ai-demo-app.vercel.app/
+## Deploy app [here](https://news-ai-demo-app.vercel.app/)
 #### Error: I use free for development of News API . So 'Requests from the browser are not allowed on the Developer plan, except from localhost.'. You can talk with AI but news can't use.
 ### Contact me to run this app
 ## Some images about web
